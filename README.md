@@ -25,14 +25,17 @@ This is a solution to the Recipe page challenge on Frontend Mentor. Frontend Men
 
 ## My process
 
-###Built with
+### Built with
+
 Semantic HTML5 markup
 CSS custom properties
 Flexbox
 Mobile-first workflow
 
-###What I learned
+### What I learned
+
 Through this project, I reinforced my knowledge of semantic HTML5 markup and CSS custom properties. I also practiced using Flexbox for layout and ensured the design was mobile-responsive using a mobile-first workflow.
 
-###Continued development
+### Continued development
+
 For future projects, I aim to delve deeper into CSS Grid and enhance my skills in responsive design. Additionally, I plan to explore JavaScript to add interactive elements to my web pages.
